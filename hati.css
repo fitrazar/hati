@@ -1,5 +1,5 @@
 <style type="text/css">
-.hatikamu {
+.hati {
 	position: relative;
 	height: 160px;
 	width: 100px;
@@ -7,7 +7,7 @@
 	border-radius: 200px 200px 0 0;
 	transform: rotate(45deg);
 }
-.hatikamu::before {
+.hati::before {
 	content: "";
 	position: absolute;
 	background: #d16ba5;
